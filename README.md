@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "(?•?•?)hello",
-         Animation = "Youtube:vtd roblox"
+         Animation = "Youtube:vtd roblox" 
          },
         Key = {
         KeySystem = false,
