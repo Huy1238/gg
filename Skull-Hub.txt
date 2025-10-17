@@ -8,7 +8,7 @@ local minimizeUI = Enum.KeyCode.RightAlt
 
 -- 🟢 Create Main UI
 local Window = Fluent:CreateWindow({
-    Title = "Leaked Skull HUB",
+    Title = "vtd HUB",
     SubTitle = "Dead Rails",
     TabWidth = 160,
     Size = UDim2.fromOffset(480, 360),
