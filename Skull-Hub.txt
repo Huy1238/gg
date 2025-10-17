@@ -19,7 +19,7 @@ local Window = Fluent:CreateWindow({
 
 -- Tabs
 local Tabs = {
-    FarT = Window:AddTab({ Title = "Farm", Icon = "rbxassetid://95183678717613" }),
+    FarT = Window:AddTab({ Title = "Farm", Icon = "rbxassetid://1234567890" }),
     Ma = Window:AddTab({ Title = "Main", Icon = "rbxassetid://95183678717613" }),
     Ite = Window:AddTab({ Title = "Items", Icon = "rbxassetid://95183678717613" }),
     TpT = Window:AddTab({ Title = "Teleport", Icon = "rbxassetid://95183678717613" }),
